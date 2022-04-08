@@ -165,24 +165,29 @@
   align-items: center;
   flex-direction: row;
 }
-.contact-link {
+.contact-navlink {
   color: #f5f3f3;
+  text-decoration: none;
 }
-.contact-link1 {
+.contact-navlink1 {
   color: #f9f5f5;
   margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
-.contact-link2 {
+.contact-navlink2 {
   color: #f5f3f3;
   margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
-.contact-link3 {
+.contact-navlink3 {
   color: #f5f3f3;
   margin-left: 32px;
+  text-decoration: none;
 }
-.contact-link4 {
+.contact-navlink4 {
   color: #f5f3f3;
   margin-left: 32px;
+  text-decoration: none;
 }
 .contact-text05 {
   color: #fdfafa;

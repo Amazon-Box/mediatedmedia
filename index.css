@@ -166,24 +166,29 @@
   align-items: center;
   flex-direction: row;
 }
-.index-link {
+.index-navlink {
   color: #f5f3f3;
+  text-decoration: none;
 }
-.index-link1 {
+.index-navlink1 {
   color: #f9f5f5;
   margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
-.index-link2 {
+.index-navlink2 {
   color: #f5f3f3;
   margin-left: var(--dl-space-space-twounits);
+  text-decoration: none;
 }
-.index-link3 {
+.index-navlink3 {
   color: #f5f3f3;
   margin-left: 32px;
+  text-decoration: none;
 }
-.index-link4 {
+.index-navlink4 {
   color: #f5f3f3;
   margin-left: 32px;
+  text-decoration: none;
 }
 .index-container2 {
   flex: 0 0 auto;
