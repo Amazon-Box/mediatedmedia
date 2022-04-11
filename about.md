@@ -1,4 +1,4 @@
 ---
-pagetitle: About
+title: About
 layout: default
 ---
